@@ -1,0 +1,9 @@
+{
+    "AvikEnable": false,
+    "AvikLang": ["Russian"],
+    "AvikTime": ["Yekaterinburg"],
+    "AvikLink": 
+    [ 
+          { "Lang":"Russian", "Links": [""]}
+    ]
+ }
